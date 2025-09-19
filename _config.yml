@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Focusing on video and speech large generation model."
-repository               : "rayeren/rayeren.github.io"
+title                    : "Qiang Tang (唐强)"
+description              : "Focusing on AI-driven bioinformatics for biomedical big data."
+repository               : "TangQiang0701/TangQiang0701.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,11 +24,11 @@ author:
   name             : "Yi Ren (任意)"
   avatar           : "images/ry_profile.jpeg"
   bio              : ""
-  location         : "Singapore"
+  location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=rJS8k7cAAAAJ"
+  email            : "tangqiang@cmc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "TangQiang0701"
   google_plus      :
   keybase          :
   instagram        :
