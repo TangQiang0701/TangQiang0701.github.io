@@ -1,13 +1,13 @@
 
 # 📝 Publications 
-## 🎙 Speech Synthesis
+## 🎙 Deep Learning
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Adv. Res. 2025</div><img src='images/deepb3p.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+[DeepB<sub>3</sub>P: A transformer-based model for identifying blood-brain barrier penetrating peptides with data augmentation using feedback GAN](https://pmc.ncbi.nlm.nih.gov/articles/PMC12225947/) \\
+**Qiang Tang**, Wei Chen
 
 [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
