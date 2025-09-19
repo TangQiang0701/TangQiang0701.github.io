@@ -9,7 +9,7 @@
 title                    : "Qiang Tang (唐强)"
 description              : "Focusing on AI-driven bioinformatics for biomedical big data."
 repository               : "TangQiang0701/TangQiang0701.github.io"
-google_scholar_stats_use_cdn : true
+#google_scholar_stats_use_cdn : true
 
 # google analytics
 #google_analytics_id      : G-SWFCX99KQZ
@@ -43,8 +43,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
+  linkedin         : 
+  dblp             : #"https://dblp.org/pid/75/6568-6.html"
   orcid            : "https://orcid.org/0000-0001-5489-3690"
   pinterest        :
   soundcloud       :
