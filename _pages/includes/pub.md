@@ -6,10 +6,10 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Adv. Res. 2025</div><img src='images/deepb3p.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DeepB<sub>3</sub>P: A transformer-based model for identifying blood-brain barrier penetrating peptides with data augmentation using feedback GAN](https://pmc.ncbi.nlm.nih.gov/articles/PMC12225947/) \\
+[DeepB<sup>3</sup>P: A transformer-based model for identifying blood-brain barrier penetrating peptides with data augmentation using feedback GAN](https://pmc.ncbi.nlm.nih.gov/articles/PMC12225947/) \\
 **Qiang Tang**, Wei Chen
 
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Project**](https://github.com/TangQiang0701/deepB3P) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - FastSpeech is the first fully parallel end-to-end speech synthesis model.
 - **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
