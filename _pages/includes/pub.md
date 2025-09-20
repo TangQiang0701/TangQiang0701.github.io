@@ -1,10 +1,30 @@
 
 # 📝 Publications 
 My full paper list is shown at [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google%20scholar&logoColor=white)](https://scholar.google.com/citations?user=rJS8k7cAAAAJ)
--  **Qiang Tang**, Wei Chen. [DeepB<sup>3</sup>P: A transformer-based model for identifying blood-brain barrier penetrating peptides with data augmentation using feedback GAN.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12225947/)  ***Journal of Advanced Research***, 2025 Jul:73:459-468. (2024 IF:13). [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TangQiang0701/deepB3P) [![webserver](https://img.shields.io/badge/webserver-8A2BE2)](https://cbcb.cdutcm.edu.cn/deepb3p/)
+-  **Qiang Tang**, Wei Chen. [DeepB<sup>3</sup>P: A transformer-based model for identifying blood-brain barrier penetrating peptides with data augmentation using feedback GAN.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12225947
+        
+        
+        
+        /)  ***Journal of Advanced Research***, 2025 Jul:73:459-468. (2024 IF:13). [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TangQiang0701/deepB3P) [![webserver](https://img.shields.io/badge/webserver-8A2BE2)](https://cbcb.cdutcm.edu.cn/deepb3p/)
 -  **Qiang Tang**, Fulei Nie, Qi Zhao, Wei Chen. [A merged molecular representation deep learning method for blood-brain barrier permeability prediction.](https://academic.oup.com/bib/article/23/5/bbac357/6674486?login=false)  ***Briefings in Bioinformatics***, 2022 Sep 20;23(5). (2022 IF:13.99). [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/TangQiang0701/Deep-B3) [![webserver](https://img.shields.io/badge/webserver-8A2BE2)](https://cbcb.cdutcm.edu.cn/deepb3/)
--  Zhaotian Zhang<sup>#</sup>, **Qiang Tang<sup>#</sup>**, Qiong Wang, Fulei Nie, Limei Sun, Delun Luo, Wei Chen, Xiaoyan Ding. [HODD: A Manually Curated Database of Human Ophthalmic Diseases with Symptom Characteristics and Genetic Variants Towards Facilitating Quick and Definite Diagnosis.](https://link.springer.com/article/10.1007/s12539-021-00494-9)  ***Interdisciplinary Sciences: Computational Life Sciences***, 2022 Jun;14(2):385-393. (2022 IF:3.49).
--  Juanjuan Kang<sup>#</sup>, **Qiang Tang<sup>#</sup>**,JunHe,LeLi, Nianling Yang, Shuiyan Yu, Mengyao Wang, Yuchen Zhang, Jiahao Lin, TianyuCui, Yongfei Hu, Puwen Tan, Jun Cheng, Hailong Zheng, Dong Wang, XiSu, Wei Chen and Yan Huang. [RNAInter v4.0: RNA interactome repository with redefined confidence scoring system and improved accessibility.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8728132/)  ***Nucleic Acids Research***, 2022 Jan 7;50(D1):D326-D332. (2022 IF:19.16).  [![webserver](https://img.shields.io/badge/webserver-8A2BE2)](http://rnainter.org/)
--  **Qiang Tang**, Fulei Nie, Juanjuan Kang, Wei Chen. [mRNALocater: Enhance the prediction accuracy of eukaryotic mRNA subcellular localization by using model fusion strategy.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8353198/)  ***Molecular therapy***, 2021 Aug 4;29(8):2617-2623. (2021 IF:11.454).
--  **Qiang Tang**, Fulei Nie, Juanjuan Kang, Wei Chen. [ncPro-ML: An integrated computational tool for identifying non-coding RNA promoters in multiple species.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7509369/)  ***Computational and Structural Biotechnology Journal***, 2020 Sep 10:18:2445-2452. (2020 IF:6.018).
--  **Qiang Tang**, Juanjuan Kang, Jiaqing Yuan, Hua Tang, Xianhai Li, Hao Lin, Jian Huang, Wei Chen. [DNA4mC-LIP: a linear integration method to identify N4-methylcytosine site in multiple species.](https://academic.oup.com/bioinformatics/article/36/11/3327/5766114?login=false)  ***[![Bioinformatics](https://img.shields.io/badge/Bioinformatics-1e90ff?style=flat&logo=open-access&logoColor=white)](https://academic.oup.com/bioinformatics)***, 2020 Jun 1;36(11):3327-3335. [![2022IF](https://img.shields.io/badge/2022%20IF-5.61-blue)](https://www.ablesci.com/journal/detail?id=0pWXx5).
+-  Zhaotian Zhang<sup>#</sup>, **Qiang Tang<sup>#</sup>**, Qiong Wang, Fulei Nie, Limei Sun, Delun Luo, Wei Chen, Xiaoyan Ding. [HODD: A Manually Curated Database of Human Ophthalmic Diseases with Symptom Characteristics and Genetic Variants Towards Facilitating Quick and Definite Diagnosis.](https://link.springer.com/article/10.1007/s12539-021-00494-9
+        
+        
+        
+        )  ***Interdisciplinary Sciences: Computational Life Sciences***, 2022 Jun;14(2):385-393. (2022 IF:3.49).
+-  Juanjuan Kang<sup>#</sup>, **Qiang Tang<sup>#</sup>**,JunHe,LeLi, Nianling Yang, Shuiyan Yu, Mengyao Wang, Yuchen Zhang, Jiahao Lin, TianyuCui, Yongfei Hu, Puwen Tan, Jun Cheng, Hailong Zheng, Dong Wang, XiSu, Wei Chen and Yan Huang. [RNAInter v4.0: RNA interactome repository with redefined confidence scoring system and improved accessibility.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8728132
+        
+        
+        
+        /)  ***Nucleic Acids Research***, 2022 Jan 7;50(D1):D326-D332. (2022 IF:19.16).  [![webserver](https://img.shields.io/badge/webserver-8A2BE2)](http://rnainter.org/)
+-  **Qiang Tang**, Fulei Nie, Juanjuan Kang, Wei Chen. [mRNALocater: Enhance the prediction accuracy of eukaryotic mRNA subcellular localization by using model fusion strategy.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8353198
+        
+        
+        
+        /)  ***Molecular therapy***, 2021 Aug 4;29(8):2617-2623. (2021 IF:11.454).
+-  **Qiang Tang**, Fulei Nie, Juanjuan Kang, Wei Chen. [ncPro-ML: An integrated computational tool for identifying non-coding RNA promoters in multiple species.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7509369
+        
+        
+        
+        /)  ***Computational and Structural Biotechnology Journal***, 2020 Sep 10:18:2445-2452. (2020 IF:6.018).
+-  **Qiang Tang**, Juanjuan Kang, Jiaqing Yuan, Hua Tang, Xianhai Li, Hao Lin, Jian Huang, Wei Chen. [DNA4mC-LIP: a linear integration method to identify N4-methylcytosine site in multiple species.](https://academic.oup.com/bioinformatics/article/36/11/3327/5766114?login=false)  ***[![Bioinformatics](https://img.shields.io/badge/Bioinformatics-0066cc?style=flat&logo=open-access&logoColor=white)](https://academic.oup.com/bioinformatics)***, 2020 Jun 1;36(11):3327-3335. [![2022IF](https://img.shields.io/badge/2022%20IF-5.61-blue)](https://www.ablesci.com/journal/detail?id=0pWXx5).
