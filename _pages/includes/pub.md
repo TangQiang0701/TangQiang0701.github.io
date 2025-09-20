@@ -1,5 +1,5 @@
 
-# 📝 Selected Publications 
+# 📝 Publications 
 My full paper list is shown at [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google%20scholar&logoColor=white)](https://scholar.google.com/citations?user=rJS8k7cAAAAJ)
 -  **Qiang Tang**, Wei Chen. [DeepB<sup>3</sup>P: A transformer-based model for identifying blood-brain barrier penetrating peptides with data augmentation using feedback GAN.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12225947/)  ***Journal of Advanced Research***, 2025 Jul:73:459-468. (2024 IF:13). [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TangQiang0701/deepB3P) [![webserver](https://img.shields.io/badge/webserver-8A2BE2)](https://cbcb.cdutcm.edu.cn/deepb3p/)
 -  **Qiang Tang**, Fulei Nie, Qi Zhao, Wei Chen. [A merged molecular representation deep learning method for blood-brain barrier permeability prediction.](https://academic.oup.com/bib/article/23/5/bbac357/6674486?login=false)  ***Briefings in Bioinformatics***, 2022 Sep 20;23(5). (2022 IF:13.99). [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/TangQiang0701/Deep-B3) [![webserver](https://img.shields.io/badge/webserver-8A2BE2)](https://cbcb.cdutcm.edu.cn/deepb3/)
