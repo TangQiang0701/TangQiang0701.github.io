@@ -1,6 +1,6 @@
 
 # 📝 Publications 
--  **Qiang Tang**, Wei Chen. [DeepB<sup>3</sup>P: A transformer-based model for identifying blood-brain barrier penetrating peptides with data augmentation using feedback GAN.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12225947/),  ***Journal of Advanced Research***, 2025 Jul:73:459-468. (2024 IF:13)
+-  **Qiang Tang**, Wei Chen. [DeepB<sup>3</sup>P: A transformer-based model for identifying blood-brain barrier penetrating peptides with data augmentation using feedback GAN.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12225947/)  ***Journal of Advanced Research***, 2025 Jul:73:459-468. (2024 IF:13). [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/TangQiang0701/deepB3P)
 - ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
 - ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
 - ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
